@@ -1,7 +1,7 @@
 # Learning Angular 1 from scratch
 
-Install packages
+Install packages   
 `npm install`
 
-Run
+Run   
 `gulp`
