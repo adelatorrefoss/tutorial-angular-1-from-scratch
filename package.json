@@ -1,0 +1,26 @@
+{
+  "name": "tutorial-angular-1-from-scratch",
+  "version": "1.0.0",
+  "description": "Learning Angular 1 from scratch",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-uglify": "^1.5.2",
+    "jshint": "^2.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelatorrefoss/tutorial-angular-1-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelatorrefoss/tutorial-angular-1-from-scratch/issues"
+  },
+  "homepage": "https://github.com/adelatorrefoss/tutorial-angular-1-from-scratch#readme"
+}
